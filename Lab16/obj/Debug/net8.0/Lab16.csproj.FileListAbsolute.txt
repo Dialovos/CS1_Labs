@@ -1,0 +1,28 @@
+C:\Users\Hoang\source\repos\Labs\Lab16\bin\Debug\net8.0\Lab16.exe
+C:\Users\Hoang\source\repos\Labs\Lab16\bin\Debug\net8.0\Lab16.deps.json
+C:\Users\Hoang\source\repos\Labs\Lab16\bin\Debug\net8.0\Lab16.runtimeconfig.json
+C:\Users\Hoang\source\repos\Labs\Lab16\bin\Debug\net8.0\Lab16.dll
+C:\Users\Hoang\source\repos\Labs\Lab16\bin\Debug\net8.0\Lab16.pdb
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.AssemblyInfoInputs.cache
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.AssemblyInfo.cs
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.dll
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\refint\Lab16.dll
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.pdb
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\Lab16.genruntimeconfig.cache
+C:\Users\Hoang\source\repos\Labs\Lab16\obj\Debug\net8.0\ref\Lab16.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\bin\Debug\net8.0\Lab16.exe
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\bin\Debug\net8.0\Lab16.deps.json
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\bin\Debug\net8.0\Lab16.runtimeconfig.json
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\bin\Debug\net8.0\Lab16.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\bin\Debug\net8.0\Lab16.pdb
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\refint\Lab16.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.pdb
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\Lab16.genruntimeconfig.cache
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab16\obj\Debug\net8.0\ref\Lab16.dll

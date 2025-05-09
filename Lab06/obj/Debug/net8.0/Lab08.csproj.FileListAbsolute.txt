@@ -1,0 +1,21 @@
+C:\Users\Hoang\source\repos\Labs\Lab06\bin\Debug\net8.0\Lab08.exe
+C:\Users\Hoang\source\repos\Labs\Lab06\bin\Debug\net8.0\Lab08.deps.json
+C:\Users\Hoang\source\repos\Labs\Lab06\bin\Debug\net8.0\Lab08.runtimeconfig.json
+C:\Users\Hoang\source\repos\Labs\Lab06\bin\Debug\net8.0\Lab08.dll
+C:\Users\Hoang\source\repos\Labs\Lab06\bin\Debug\net8.0\Lab08.pdb
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.dll
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\refint\Lab08.dll
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.pdb
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\Lab08.genruntimeconfig.cache
+C:\Users\Hoang\source\repos\Labs\Lab06\obj\Debug\net8.0\ref\Lab08.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\refint\Lab08.dll
+C:\Users\Hoang\OneDrive\Documents\Program\Visual Studio 2022\Labs\Lab06\obj\Debug\net8.0\Lab08.pdb
